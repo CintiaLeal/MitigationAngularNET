@@ -1,7 +1,7 @@
 # MitigationAngularNET
 
 ## Mitigación
-
+![image](![image](https://github.com/CintiaLeal/MitigationAngularNET/assets/66495366/115a4c1a-3f8c-4fe3-8884-33c576948803))
 Esta mitigación se realizó para resolver problemas de CORS al conectar el frontend con el backend.
 
 ### Angular:
@@ -71,3 +71,5 @@ Instrucciones para crear una Web API en .NET:
 2. Desde la consola de Visual Studio Code, ejecuta el comando para iniciar el frontend.
 
 3. Ahora puedes observar en Angular los datos obtenidos desde el backend.
+![image](https://github.com/CintiaLeal/MitigationAngularNET/assets/66495366/4c029ac1-0fd3-4c19-a306-f0ec21b5caa9)
+
