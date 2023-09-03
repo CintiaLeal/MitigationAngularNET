@@ -1,7 +1,8 @@
 # MitigationAngularNET
 
 ## Mitigación
-[image](https://github.com/CintiaLeal/MitigationAngularNET/assets/66495366/115a4c1a-3f8c-4fe3-8884-33c576948803)
+![image](https://github.com/CintiaLeal/MitigationAngularNET/assets/66495366/d98a0b60-7305-4735-989a-7550072f86f6)
+
 Esta mitigación se realizó para resolver problemas de CORS al conectar el frontend con el backend.
 
 ### Angular:
